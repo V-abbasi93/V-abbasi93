@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Vajihe Abbasi
+- 👀 I’m interested in Web and Mobile application development with Microsoft technologies. 
+- 🌱 I’m currently learning .NET with C# and Web Design. 
+- 💞️ I’m looking to collaborate on Web and Mobile apps in .NET.
+- 📫 How to reach me v.abbasi9372@gmail.com
